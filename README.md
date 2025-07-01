@@ -11,10 +11,10 @@ The decrypted message reveals fragments such as:
 
 > "Abandon contact near the Berlin clock. Encrypt the file. Conceal it underground. Escape route compromised."
 
->Updated Interpretation (June 30, 2025)
+Updated Interpretation (June 30, 2025)
 In response to community feedback, we’ve updated our interpretation to explicitly include “EASTNORTHEAST,” which appears in the decrypted text at positions 22–34. Below are three refined message options that retain semantic alignment with spycraft tone and Sanborn's known plaintexts:
 
-Option A:
+>Option A:
 Abandon contact east-northeast of the Berlin clock. Encrypt the file. Conceal it underground. Escape route compromised.
 
 Option B:
