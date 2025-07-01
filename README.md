@@ -20,7 +20,7 @@ The decrypted message reveals fragments such as:
 ## Timeline
 This repo was created and timestamped before public Substack and Reddit release.
 
-For the full write-up, visit: [Your Substack Link Here]
+For the full write-up, visit: https://open.substack.com/pub/sleightofmind/p/we-may-have-just-solved-kryptos-k4?r=2qecz5&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false
 
 ## Contact
 sleightofmind@protonmail.com
