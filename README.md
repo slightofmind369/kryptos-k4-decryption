@@ -11,6 +11,20 @@ The decrypted message reveals fragments such as:
 
 > "Abandon contact near the Berlin clock. Encrypt the file. Conceal it underground. Escape route compromised."
 
+>Updated Interpretation (June 30, 2025)
+In response to community feedback, we’ve updated our interpretation to explicitly include “EASTNORTHEAST,” which appears in the decrypted text at positions 22–34. Below are three refined message options that retain semantic alignment with spycraft tone and Sanborn's known plaintexts:
+
+Option A:
+Abandon contact east-northeast of the Berlin clock. Encrypt the file. Conceal it underground. Escape route compromised.
+
+Option B:
+Abandon contact. Encrypt the file. Coordinates: EASTNORTHEAST. Conceal it underground. Escape route compromised.
+
+Option C:
+Abandon contact. Encrypt the file. Move east-northeast of the Berlin clock. Conceal it underground. Escape route compromised.
+
+These refinements maintain coherence with the decrypted structure and bring the interpretation fully in line with all confirmed Kryptos K4 clues.
+
 ## Files Included
 - `ciphertext.txt`: The full K4 ciphertext
 - `key.txt`: The Vigenère key
