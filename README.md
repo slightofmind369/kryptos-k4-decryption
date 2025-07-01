@@ -17,10 +17,10 @@ In response to community feedback, we’ve updated our interpretation to explici
 >Option A:
 Abandon contact east-northeast of the Berlin clock. Encrypt the file. Conceal it underground. Escape route compromised.
 
-Option B:
+>Option B:
 Abandon contact. Encrypt the file. Coordinates: EASTNORTHEAST. Conceal it underground. Escape route compromised.
 
-Option C:
+>Option C:
 Abandon contact. Encrypt the file. Move east-northeast of the Berlin clock. Conceal it underground. Escape route compromised.
 
 These refinements maintain coherence with the decrypted structure and bring the interpretation fully in line with all confirmed Kryptos K4 clues.
