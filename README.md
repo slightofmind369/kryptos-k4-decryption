@@ -1,7 +1,7 @@
 # Kryptos K4 — AI-Assisted Decryption Attempt
 
 ## Overview
-This repository documents what may be the first semantically aligned and reproducible decryption of Kryptos K4 — the CIA's legendary 97-character cipher unsolved for over 30 years.
+This repository documents what may be the first semantically aligned and reproducible decryption of Kryptos K4 — CIA's legendary 97-character cipher unsolved for over 30 years.
 
 We used an AI-assisted genetic algorithm to derive the key:
 
